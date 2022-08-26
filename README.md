@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NIKHIL RAJIV</h1>
-<h3 align="center">Sophomore from Amrita University, Amritapuri.</h3>
+<h3 align="center">I'm Currently pursuing my undergraduation in Electronics and Computer Engineering from <br>AMRITA VISHWA VIDYAPEETHAM, Amritapuri.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
