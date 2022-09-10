@@ -1,4 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>
 <p align="center"><a href="https://github.com/manoj1749"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 <h1 align="center">Hi 👋, I'm NIKHIL RAJIV</h1>
 <h3 align="center">I'm Currently pursuing my undergraduation in Electronics and Computer Engineering from <br>AMRITA VISHWA VIDYAPEETHAM, Amritapuri.</h3>
