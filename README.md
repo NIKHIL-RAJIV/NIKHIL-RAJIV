@@ -20,6 +20,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=nikhil-rajiv&count_private=true&show_icons=true&theme=radical" />
     </td>
     <td>
+        <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-WC121&theme=dark&hide_border=false"/>
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-rajiv&layout=compact&theme=radical" />
     </td>
   </tr>
