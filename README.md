@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>, I'm NIKHIL RAJIV</h1>
 
 <!--<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=A+Full+stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a></h1>-->
-<h3 align="center">I'm Currently pursuing my undergraduation in Electronics and Computer Engineering from <br>AMRITA VISHWA VIDYAPEETHAM, Amritapuri.</h3>
+<h3 align="center">I'm Currently pursuing my Master's in Artificial Intelligence from <br>AMRITA VISHWA VIDYAPEETHAM, Coimbatore Campus.</h3>
 
 
 <!--<img width="45%"  align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />-->
