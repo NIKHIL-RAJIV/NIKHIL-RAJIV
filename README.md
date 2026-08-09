@@ -28,18 +28,4 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
 </details>
-<table>
-  
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nikhil-rajiv&count_private=true&show_icons=true&theme=radical" />
-    </td>
-    <td>
-        <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-RAJIV&theme=dark&hide_border=false"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-rajiv&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
